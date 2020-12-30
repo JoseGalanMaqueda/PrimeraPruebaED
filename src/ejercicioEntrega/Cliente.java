@@ -22,7 +22,7 @@ public class Cliente {
 		this.direccion = direccion;
 	}
 
-	//GETTERS Y SETTERS
+	/*GETTERS Y SETTERS*/
 
 	public String getDni() {
 		return dni;

@@ -22,7 +22,7 @@ public class Cuenta {
 		this.cliente = cliente;
 	}
 	
-	//GETTERS Y SETTERS
+	/*GETTERS Y SETTERS*/
 
 	public int getNumeroCuenta() {
 		return numeroCuenta;
